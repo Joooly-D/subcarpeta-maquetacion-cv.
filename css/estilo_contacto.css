@@ -18,7 +18,8 @@ body {
 }
 
 .contacto {
-    padding: 50px 0;
+    margin-top: 0px;
+    padding: 0px 0;
     text-align: center;
 }
 
@@ -30,16 +31,17 @@ body {
 }
 
 .contacto-content {
-    max-width: 800px;
+    max-width: 1500px;
     margin: 0 auto;
-    padding: 0 20px;
+    padding: 200px 50px;
+    margin-top: 20px;
 }
 
 .contacto-form {
-    background-color: #1d2042;
+    background-color: #60afd9;
     padding: 30px;
     border-radius: 15px;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 70px rgb(23, 185, 225);
 }
 
 .form-group {
@@ -49,7 +51,7 @@ body {
 
 .form-group label {
     display: block;
-    font-size: 20px;
+    font-size: 30px;
     color: #ffffff;
     margin-bottom: 10px;
 }
@@ -58,11 +60,11 @@ body {
 .form-group textarea {
     width: 100%;
     padding: 10px;
-    font-size: 16px;
+    font-size: 25px;
     border: 2px solid #49BADA;
     border-radius: 10px;
-    background-color: #2e2e2e;
-    color: #ffffff;
+    background-color: #ffffff;
+    color: #003cff;
 }
 
 .form-group textarea {
