@@ -41,7 +41,7 @@ body {
     background-color: #60afd9;
     padding: 30px;
     border-radius: 15px;
-    box-shadow: 0 0 70px rgb(23, 185, 225);
+    box-shadow: 0 0 70px rgb(4, 100, 123);
 }
 
 .form-group {
@@ -64,7 +64,7 @@ body {
     border: 2px solid #49BADA;
     border-radius: 10px;
     background-color: #ffffff;
-    color: #003cff;
+    color: #092b45;
 }
 
 .form-group textarea {
